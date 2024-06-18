@@ -10,7 +10,7 @@ Of course, there’s also the humour! Some of my favourite messages are referenc
 
 Despite not engaging much in the multiplayer aspect of the game, I never felt alone on my journey through the Lands Between.
 
-On a subsequent playthrough, I thought it would be interesting to keep a record of every message I encountered. To achieve this, I wrote a script to collect the message text, gesture and location data. If you’re interested in the technical details or seeing the raw data for yourself, I’ll leave a link to my GitHub at the bottom of this post. I made sure to visit every location and open as many messages as I possibly could, which ended up being 6882 messages across nearly 80 hours of gameplay!
+On a subsequent playthrough, I thought it would be interesting to keep a record of every message I encountered. To achieve this, I wrote a script to collect the message text, gesture and location data. I made sure to visit every location and open as many messages as I possibly could, which ended up being 6882 messages across nearly 80 hours of gameplay!
 
 There are 9,325 possible combinations of simple messages (i.e. template + word/phrase) and a whopping 869,556,250 possible combinations of complex messages (i.e. Template + word/phrase + conjunction + template 2 + word/phrase 2). Of all of these possible combinations, I only encountered 2354 unique simple messages and 3,714 total unique messages in my playthrough.
 
