@@ -2,7 +2,7 @@
 
 Technical details towards the bottom :)
 
-One of the most memorable aspects of my first playthrough of Elden Ring was the messaging system. For the few who are not aware, you can leave messages for other players that will appear in their worlds. The highly restrictive system of templates, words and conjunctions encourages creativity, leaves just enough room for ambiguity and automatically translates the messages into other languages. Players receive HP when their messages are rated as ‘good’, so are incentivised to use the mechanic and leave behind helpful, insightful or funny messages.
+One of the most memorable aspects of my first playthrough of Elden Ring was the messaging system. For those not aware, you can leave messages for other players that will appear in their worlds. The highly restrictive system of templates, words and conjunctions encourages creativity, leaves just enough room for ambiguity and automatically translates the messages into other languages. Players receive HP when their messages are rated as ‘good’, so are incentivised to use the mechanic and leave behind helpful, insightful or funny messages.
 
 What I loved most about this system was how the messages were a microcosm of human expression and motivation. I am grateful for all of the players who led me to a site of grace, nudged me towards treasure or informed me of a boss’ weakness. Though some tried to convince me to jump to my death, others would be urging me not to listen.
 
